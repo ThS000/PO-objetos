@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7346744e-d654-462e-a7b5-6260af1f3997" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SEMESTRE1/SEMESTRE1_SEMANA1/EX1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEMESTRE1/SEMESTRE1_SEMANA1/EX2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SEMESTRE1/SEMESTRE1_SEMANA1/EX3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.SEMESTRE1.SEMESTRE1_SEMANA1.EX2.Main.executor": "Run",
+    "Application.SEMESTRE1.SEMESTRE1_SEMANA1.EX3.Main.executor": "Run",
+    "Application.SEMESTRE1.SEMESTRE1_SEMANA5.EX1.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -43,6 +50,68 @@
     "onboarding.tips.debug.path": "C:/Users/tatas/IdeaProjects/POO/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.SEMESTRE1.SEMESTRE1_SEMANA5.EX1.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEMESTRE1.SEMESTRE1_SEMANA1.EX1.Main" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEMESTRE1.SEMESTRE1_SEMANA1.EX1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SEMESTRE1.SEMESTRE1_SEMANA1.EX2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEMESTRE1.SEMESTRE1_SEMANA1.EX2.Main" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEMESTRE1.SEMESTRE1_SEMANA1.EX2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SEMESTRE1.SEMESTRE1_SEMANA1.EX3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEMESTRE1.SEMESTRE1_SEMANA1.EX3.Main" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEMESTRE1.SEMESTRE1_SEMANA1.EX3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SEMESTRE1.SEMESTRE1_SEMANA5.EX1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEMESTRE1.SEMESTRE1_SEMANA5.EX1.Main" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SEMESTRE1.SEMESTRE1_SEMANA5.EX1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SEMESTRE1.SEMESTRE1_SEMANA5.EX1.Main" />
+        <item itemvalue="Application.SEMESTRE1.SEMESTRE1_SEMANA1.EX3.Main" />
+        <item itemvalue="Application.SEMESTRE1.SEMESTRE1_SEMANA1.EX2.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
